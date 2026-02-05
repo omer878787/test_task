@@ -1,0 +1,14 @@
+<svg width="110" height="110" viewBox="0 0 110 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M80.8082 110H29.1918C13.07 110 0 96.9379 0 80.7595V29.1742C0 13.0621 13.07 0 29.1918 0H80.8082C96.93 0 110 13.0621 110 29.1742V80.7595C110 96.9379 96.93 110 80.8082 110Z" fill="#F0CFC4"/>
+
+    <!-- eyes (sad) -->
+    <path d="M25 52c3-4 9-4 12 0" stroke="#323232" stroke-width="4" stroke-linecap="round"/>
+    <path d="M73 52c3-4 9-4 12 0" stroke="#323232" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- cheeks -->
+    <circle cx="18" cy="65" r="7" fill="#F28DB3"/>
+    <circle cx="92" cy="65" r="7" fill="#F28DB3"/>
+
+    <!-- mouth (sad frown) -->
+    <path d="M45 82c5-6 15-6 20 0" stroke="#F28DB3" stroke-width="6" stroke-linecap="round"/>
+</svg>
